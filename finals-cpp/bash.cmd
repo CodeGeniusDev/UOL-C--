@@ -9,6 +9,8 @@ g++ nested-switch.cpp -o nested-switch
 g++ break.cpp -o break
 g++ nested-if.cpp -o nested-if
 g++ radius.cpp -o radius
+g++ ASCII.cpp -o ASCII
+g++ mask-num.cpp -o mask-num
 
 
 @REM  For Windows (run code)
@@ -22,3 +24,5 @@ g++ radius.cpp -o radius
 ./break
 ./nested-if
 ./radius
+./ASCII
+./mask-num
