@@ -39,3 +39,6 @@ g++ insurence.cpp -o insurence
 .\calculateDiscount
 .\preExistingConditions
 .\insurence
+
+git clone
+
